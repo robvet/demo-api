@@ -1,2 +1,2 @@
 # demo-app-service-containers
-v1
+Simple .NET Core API. Includes Linux base image and Docker file for containerized deployment.
